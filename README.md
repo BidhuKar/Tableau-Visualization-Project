@@ -44,3 +44,23 @@ Dashboard filter for income group to be applied for all charts with the filter a
 <img width="1470" alt="Screenshot 2024-04-06 at 12 27 04" src="https://github.com/BidhuKar/Tableau-Visualization-Project1/assets/26342171/8284e8cd-fdc0-4eab-8c7c-707dc76e10aa">
 
 
+
+# Tableau-Visualization-Project2
+
+
+Description
+
+The director of a leading organization wants to compare the sales between two regions. He has asked each region operators to record the sales data to compare by region. The upper management wants to visualize the sales data using a dashboard to understand the performance between them and suggest the necessary improvements.
+
+ 
+
+Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
+
+ 
+
+Datasets: Sample Superstore
+
+![Sales Dashboard](https://github.com/BidhuKar/Tableau-Visualization-Project1/assets/26342171/1a366020-0774-4366-af74-7a1ba8adc270)
+
+
+
